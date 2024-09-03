@@ -1,0 +1,24 @@
+{
+  "products": [
+    { "id": 1, "item": "Smartwatch", "brand": "Apple", "price": "₹33,117", "description": "Apple Watch Series 8 with GPS and cellular capability." },
+    { "id": 2, "item": "Smartphone", "brand": "Samsung", "price": "₹82,617", "description": "Samsung Galaxy S23 Ultra with 12GB RAM and 256GB storage." },
+    { "id": 3, "item": "Laptop", "brand": "Dell", "price": "₹107,617", "description": "Dell XPS 13 with Intel Core i7, 16GB RAM, and 512GB SSD." },
+    { "id": 4, "item": "Earbuds", "brand": "Sony", "price": "₹16,517", "description": "Sony WF-1000XM4 True Wireless Noise Cancelling Earbuds." },
+    { "id": 5, "item": "TV", "brand": "LG", "price": "₹66,317", "description": "LG 55-inch 4K UHD Smart TV with AI ThinQ." },
+    { "id": 6, "item": "Smartwatch", "brand": "Samsung", "price": "₹23,157", "description": "Samsung Galaxy Watch 5 with GPS and heart rate monitor." },
+    { "id": 7, "item": "Smartphone", "brand": "Google", "price": "₹74,817", "description": "Google Pixel 7 Pro with 12GB RAM and 128GB storage." },
+    { "id": 8, "item": "Laptop", "brand": "HP", "price": "₹82,617", "description": "HP Spectre x360 with Intel Core i7, 16GB RAM, and 1TB SSD." },
+    { "id": 9, "item": "Earbuds", "brand": "Apple", "price": "₹20,667", "description": "Apple AirPods Pro with active noise cancellation." },
+    { "id": 10, "item": "TV", "brand": "Samsung", "price": "₹99,417", "description": "Samsung 65-inch QLED 4K Smart TV with Quantum Processor." },
+    { "id": 11, "item": "Smartwatch", "brand": "Fitbit", "price": "₹12,357", "description": "Fitbit Charge 5 with built-in GPS and health tracking." },
+    { "id": 12, "item": "Smartphone", "brand": "OnePlus", "price": "₹57,927", "description": "OnePlus 11 5G with 16GB RAM and 256GB storage." },
+    { "id": 13, "item": "Laptop", "brand": "Asus", "price": "₹66,317", "description": "Asus ZenBook 14 with AMD Ryzen 7, 16GB RAM, and 512GB SSD." },
+    { "id": 14, "item": "Earbuds", "brand": "Bose", "price": "₹23,157", "description": "Bose QuietComfort Earbuds with noise cancelling technology." },
+    { "id": 15, "item": "TV", "brand": "Sony", "price": "₹82,617", "description": "Sony Bravia 55-inch 4K Ultra HD Smart TV with HDR." },
+    { "id": 16, "item": "Smartwatch", "brand": "Garmin", "price": "₹28,957", "description": "Garmin Fenix 7 with advanced fitness and health tracking." },
+    { "id": 17, "item": "Smartphone", "brand": "Xiaomi", "price": "₹41,317", "description": "Xiaomi Mi 12 with Snapdragon 8 Gen 1 and 256GB storage." },
+    { "id": 18, "item": "Laptop", "brand": "Lenovo", "price": "₹91,617", "description": "Lenovo ThinkPad X1 Carbon with Intel Core i7, 16GB RAM, and 512GB SSD." },
+    { "id": 19, "item": "Earbuds", "brand": "Jabra", "price": "₹16,517", "description": "Jabra Elite 75t True Wireless Earbuds with ANC." },
+    { "id": 20, "item": "TV", "brand": "TCL", "price": "₹53,779", "description": "TCL 50-inch 4K UHD Smart TV with Android TV." }
+  ]
+}
